@@ -2,7 +2,7 @@
 
 A Simple html css website deployed in netlify.com
 
-click www.indian-pickles.netlify.com to check the live website
+click <http://indian-pickles.netlify.com> to check the live website
 
 ## Running the code
 
